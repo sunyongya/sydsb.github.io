@@ -480,6 +480,17 @@ form.contact-form {
     }
 }
 
+.code img{
+    margin: 0 auto;
+	width:450px;
+}
+#content2 >label{
+    width: 145px;
+}
+#content4 >img{
+    width: 100%;
+	width:450px;
+}
 @media(max-width:384px) {}
 
 @media(max-width:375px) {}
