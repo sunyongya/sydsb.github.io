@@ -482,14 +482,16 @@ form.contact-form {
 
 .code img{
     margin: 0 auto;
-	width:450px;
+/* 	width:450px; */
+	height: auto; width: auto\9; width:100%; 
 }
 #content2 >label{
     width: 145px;
 }
 #content4 >img{
-    width: 100%;
-	width:450px;
+/*     width: 100%; */
+/* 	width:450px; */
+	height: auto; width: auto\9; width:100%; 
 }
 @media(max-width:384px) {}
 
